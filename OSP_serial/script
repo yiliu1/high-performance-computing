@@ -1,0 +1,6 @@
+#!/bin/bash -l
+#
+#SBATCH --constraint=gpu
+#SBATCH --time=01:00:00
+
+srun ./extended_cmaes

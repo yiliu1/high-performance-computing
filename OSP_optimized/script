@@ -1,0 +1,7 @@
+#!/bin/bash -l
+#SBATCH --job-name=1.out
+#SBATCH --time=01:00:00
+#SBATCH --constraint=gpu
+
+export OMP_NUM_THREADS=11
+srun ./extended_cmaes
