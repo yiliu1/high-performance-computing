@@ -1,9 +1,5 @@
 /*
  *  fitfun_extended.c
- *
- *  Created by Panagiotis Hadjidoukas (CSE Lab, D-MAVT, ETH Zurich).
- *  Copyright 2017 ETH Zurich. All rights reserved.
- *
  */
 
 #include <stdio.h>
