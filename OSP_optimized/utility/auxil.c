@@ -323,14 +323,7 @@ int mvnrnd_silva(const gsl_rng *r, const gsl_vector *mean, const gsl_matrix *var
 }
 
 
-/*
- *  @title multivariate normal random variables
- *  @author Carl Boettiger, <cboettig@gmail.com>
- *
- *  Based on the R function rmvnorm, from the mvtnorm package
- *  by Friedrich Leisch and Fabian Scheipl, implemented
- *  using the GSL libraries
- */
+
 
 int mvnrnd_cboet(gsl_rng * rng, const gsl_vector * mean, gsl_matrix * covar, gsl_vector * ANS)
 {

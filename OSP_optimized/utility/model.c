@@ -16,18 +16,6 @@ void models(double *g, double *d)
 	int N_sensors = model_data.N_sensors;
 
 	//////////////////////////////////
-	// model.m
-	// This function provides the model function (= velocity measurements) for the 
-	// vortex optimal sensor placement problem.
-	// Input:
-	// mygamma     : vortex strength
-	// theta     : samples of model parameters
-	// d         : vector of design parameters, d = [x_s, h]
-	// N_sensors : number of sensors to be placed
-	//
-	// Author: Franziska Krummenacher, krummenf@student.ethz.ch
-	// Spring/Summer 2016
-	//////////////////////////////////
 
 	//extract number of samples
 	//N_samples = size(theta,1);

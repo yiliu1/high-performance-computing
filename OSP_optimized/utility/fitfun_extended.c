@@ -35,15 +35,7 @@ struct utility_data_
 #include "extended_utility.c"
 
 extern void model(double *g, double *d);
-//////////////////////////////////
-// simple_main.m
-// This program solves the problem of opimally placing 
-// sensors on a wall close to a vortex in order to estimate
-// its position. 
-//
-// Author: Franziska Krummenacher, krummenf@student.ethz.ch
-// Spring/Summer 2016
-//////////////////////////////////
+
 
 //set parameters
 const double mygamma = 1.0;		//vortex strength

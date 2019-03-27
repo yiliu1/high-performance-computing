@@ -28,20 +28,6 @@ double extended_utility(double *d)
 	int N_sensors = utility_data.N_sensors;
 	int N_u = utility_data.N_u;
 	//////////////////////////////////
-	// simple_utility.m
-	// This function provides the utility function for the vortex 
-	// optimal sensor placement problem.
-	// Input:
-	// g         : function handle to model
-	// d         : vector of design parameters, d = [x_s, h]
-	// theta     : samples of model parameters
-	// z         : error samples, normally distributed
-	// sigma     : covariance matrix of error
-	// lamb      : correlation length
-	// corr_error: flag indicating whether spatial error correlation
-	//             is assumed.
-	// Author: Franziska Krummenacher, krummenf@student.ethz.ch
-	// Spring/Summer 2016
 	//////////////////////////////////
 
 	//extract number of samples and sensors
