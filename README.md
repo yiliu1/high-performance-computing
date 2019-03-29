@@ -4,4 +4,6 @@ Baysian parameters optimization on clusters(Swiss National Supercomputing Centre
 Optimized code in OSP_optimized folder.  
 
 # Memory hierachy optimization  
-To be added...  
+Instruction level parallelism(LLP)  
+Single instruction, multiple data(SIMD),e.g. SSE,AVX2  
+https://software.intel.com/sites/landingpage/IntrinsicsGuide/
