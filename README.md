@@ -6,5 +6,5 @@ Optimized code in OSP_optimized folder.
 # Memory hierachy optimization  
 Instruction level parallelism(LLP)  
 Single instruction, multiple data(SIMD),e.g. SSE,AVX2  
-https://software.intel.com/sites/landingpage/IntrinsicsGuide/
+https://software.intel.com/sites/landingpage/IntrinsicsGuide/  
 Examples in SIMD_AVX  
