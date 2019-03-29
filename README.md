@@ -7,3 +7,4 @@ Optimized code in OSP_optimized folder.
 Instruction level parallelism(LLP)  
 Single instruction, multiple data(SIMD),e.g. SSE,AVX2  
 https://software.intel.com/sites/landingpage/IntrinsicsGuide/
+Examples in SIMD_AVX  
