@@ -1,6 +1,7 @@
 # High-performance-computing
 # Parallelization  
 * Baysian parameters optimization on clusters(Swiss National Supercomputing Centre) through OpenMP, MPI and GPU. 
+* Optimization is based on evolutionary algortihms which are gradient free.  
 * Optimized code in OSP_optimized folder.  
 
 # Memory hierachy optimization  
