@@ -4,7 +4,7 @@
 * Optimization is based on evolutionary algortihms which are gradient free.  
 * Optimized code in OSP_optimized folder.  
 
-# Memory hierachy optimization  
+# Instruction level parallelization    
 * Instruction level parallelism(LLP)  
 * Single instruction, multiple data(SIMD),e.g. SSE,AVX2  
 https://software.intel.com/sites/landingpage/IntrinsicsGuide/  
