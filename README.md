@@ -10,5 +10,5 @@
 https://software.intel.com/sites/landingpage/IntrinsicsGuide/  
 * Examples in SIMD_AVX folder.  
 # Memory hierarchy optimization  
-* ATLAS http://math-atlas.sourceforge.net  
-* BLAS http://www.netlib.org/blas/  
+* ATLAS(Automatically Tuned Linear Algebra Software) http://math-atlas.sourceforge.net  
+* BLAS(Basic Linear Algebra Subprograms) http://www.netlib.org/blas/  
